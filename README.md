@@ -26,7 +26,7 @@ If you have questions about this Privacy Policy, you may contact:
 
 Knot Theory.ai
 Attn: Tess, KnotTheory.ai Inc.
-Email: [tess@knottheory.ai]
+Email: [gopal@knottheory.ai]
 Location: [Fremont, CA]
 
 © 2025 Knot Theory.ai — All rights reserved.
