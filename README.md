@@ -1,7 +1,7 @@
 Privacy Policy for Tess.AI from KnotTheory.AI
 Effective Date: 2025-06-05
 
-Tess.AI (“the App”) is developed and owned by Gopal Anantharaman under Knot Theory.ai Inc. This is not associated with Apps with Similar name from other countries ( e.g. pareto's Tess AI). 
+Tess.AI (“the App”) is developed and owned by Gopal Anantharaman under Knot Theory.ai Inc. Tess.AI App is not associated in anyway with Apps with Similar name from other countries ( e.g. pareto's Tess AI). 
 
 1. Data Collection
 The App does not collect, store, or transmit any personal or sensitive user data. No user content is sent to external servers or services.
