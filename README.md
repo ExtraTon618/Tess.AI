@@ -30,4 +30,4 @@ Attn: Tess, KnotTheory.ai Inc.
 Email: [gopal@knottheory.ai]
 Location: [Fremont, CA]
 
-© 2025 Knot Theory.ai — All rights reserved.
+© 2025 KnotTheory.ai Inc. — All rights reserved.
